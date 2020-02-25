@@ -1,4 +1,4 @@
-module github.com/whosonfirst/warning
+module github.com/tpazderka/warning
 
 go 1.12
 

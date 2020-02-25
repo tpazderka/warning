@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"warning"
+	"github.com/tpazderka/warning"
 
 	"github.com/hashicorp/go-multierror"
 	"github.com/pkg/errors"
